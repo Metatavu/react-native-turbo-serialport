@@ -10,7 +10,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@serserm/react-native-turbo-serialport": "workspace:^",
+    "@serserm/react-native-turbo-serialport": "../../packages/react-native-turbo-serialport",
     "expo": "~51.0.14",
     "expo-build-properties": "~0.12.3",
     "expo-status-bar": "~1.12.1",

@@ -14,7 +14,7 @@
     "build:ios": "cd ios && xcodebuild -workspace TurboSensorsExample.xcworkspace -scheme TurboSensorsExample -configuration Debug -sdk iphonesimulator CC=clang CPLUSPLUS=clang++ LD=clang LDPLUSPLUS=clang++ GCC_OPTIMIZATION_LEVEL=0 GCC_PRECOMPILE_PREFIX_HEADER=YES ASSETCATALOG_COMPILER_OPTIMIZATION=time DEBUG_INFORMATION_FORMAT=dwarf COMPILER_INDEX_STORE_ENABLE=NO"
   },
   "dependencies": {
-    "@serserm/react-native-turbo-serialport": "workspace:^",
+    "@serserm/react-native-turbo-serialport": "../../packages/react-native-turbo-serialport",
     "react": "18.2.0",
     "react-native": "0.74.2"
   },
