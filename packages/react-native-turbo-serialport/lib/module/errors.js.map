@@ -1,0 +1,1 @@
+{"version":3,"names":["Platform","LINKING_ERROR","select","ios","default"],"sourceRoot":"../../src","sources":["errors.ts"],"mappings":"AAAA,SAASA,QAAQ,QAAQ,cAAc;AAEvC,OAAO,MAAMC,aAAqB,GAChC,qFAAqF,GACrFD,QAAQ,CAACE,MAAM,CAAC;EAAEC,GAAG,EAAE,4BAA4B;EAAEC,OAAO,EAAE;AAAG,CAAC,CAAC,GACnE,sDAAsD,GACtD,+BAA+B","ignoreList":[]}

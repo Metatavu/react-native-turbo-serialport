@@ -1,0 +1,1 @@
+{"version":3,"names":["_reactNative","require","LINKING_ERROR","exports","Platform","select","ios","default"],"sourceRoot":"../../src","sources":["errors.ts"],"mappings":";;;;;;AAAA,IAAAA,YAAA,GAAAC,OAAA;AAEO,MAAMC,aAAqB,GAAAC,OAAA,CAAAD,aAAA,GAChC,qFAAqF,GACrFE,qBAAQ,CAACC,MAAM,CAAC;EAAEC,GAAG,EAAE,4BAA4B;EAAEC,OAAO,EAAE;AAAG,CAAC,CAAC,GACnE,sDAAsD,GACtD,+BAA+B","ignoreList":[]}
